@@ -1,5 +1,5 @@
 # Maquetado de un fork  
-Se siguieron las siguientes indicaciones:
+El maquetado se realizó en base a las indicaciones líneas abajo.
 
 # AppLove
 
